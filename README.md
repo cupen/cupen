@@ -7,7 +7,7 @@
 <div style="">
 <!-- <div style="flex:1; display:flex; flex-direction:column;"> -->
 
-<div align="right" style="float: right">
+<div align="right" style="">
 <!-- <div style="flex: 1;"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=cupen&show_icons=true&count_private=true" />
 <!-- </div> -->
