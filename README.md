@@ -32,7 +32,7 @@
 
 </div>
 
-<div style="flex:1; display:flex; flex-direction:column; float: right;">
+<div style="flex:1; display:flex; flex-direction:column;">
 <div style="flex: 1;">
 <img src="https://github-readme-stats.vercel.app/api?username=cupen&show_icons=true&count_private=true" />
 </div>
