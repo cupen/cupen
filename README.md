@@ -1,7 +1,9 @@
 - - -
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cupen&show_icons=true&count_private=true&theme=radical" />
-
+<div align="right" styles="display: flex;flex-direction: column;">
+<img alt="1" src="https://github-readme-stats.vercel.app/api?username=cupen&show_icons=true&count_private=true" />
+<img alt="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupen&size_weight=0.2&count_weight=0.8" />
+<div/>
 
 ```
 ................................................
